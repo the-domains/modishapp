@@ -1,0 +1,14 @@
+layout_spectrum: 0.3514234032481909
+typography_spectrum: 0.15799973555840552
+color:
+  brandStrength: 0.6474072502460331
+  lightness: 0.66370969847776
+  saturation: 0.6222016613464803
+  rhythmicContrast: 0.31125688808970153
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: ModishApp
