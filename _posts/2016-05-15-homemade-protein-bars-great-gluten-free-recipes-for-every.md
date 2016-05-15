@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://glutenfreeonashoestring.com/homemade-protein-bars/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GlutenFreeOnAShoestring+%28Gluten+Free+on+a+Shoestring%29'
 title: Homemade Protein Bars - Great gluten free recipes for every occasion.
-datePublished: '2016-05-15T01:41:08.956Z'
-dateModified: '2016-05-15T01:40:37.629Z'
+datePublished: '2016-05-15T01:41:19.312Z'
+dateModified: '2016-05-15T01:39:15.589Z'
 starred: false
 sourcePath: _posts/2016-05-15-homemade-protein-bars-great-gluten-free-recipes-for-every.md
 inFeed: true
