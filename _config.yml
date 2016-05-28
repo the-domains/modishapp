@@ -22,7 +22,7 @@ color:
     - '#FFFFFF'
     - '#FF9800'
   brandStrength: 0.25
-  lightness: 0.05880685872398317
-  saturation: 0.13694684230722487
+  lightness: 0.625
+  saturation: 0.375
   rhythmicContrast: 0.9068706452380866
 purpose: []
