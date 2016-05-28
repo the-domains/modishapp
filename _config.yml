@@ -1,14 +1,28 @@
-layout_spectrum: 0.8143879843410105
+name: ModishApp
+favicon: null
+layout_spectrum: 0.38879
 typography_spectrum: 0.37755777104757726
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.4184126064646989
-  lightness: 0.05880685872398317
-  saturation: 0.13694684230722487
-  rhythmicContrast: 0.9068706452380866
   brandColors:
     - '#000000'
     - '#263248'
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-name: ModishApp
+  brandStrength: 0.25
+  lightness: 0.05880685872398317
+  saturation: 0.13694684230722487
+  rhythmicContrast: 0.9068706452380866
+purpose: []
